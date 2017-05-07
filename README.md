@@ -2,7 +2,7 @@
 
 E-book of Chinese History
 
-Histories make men wise. The ancient Chinese history books I collected. Share to others who also like ancient Chinese history.
+Histories make men wise. They are E-books of ancient Chinese history I collected before. Share to others who also like ancient Chinese history.
 
 ---
 
