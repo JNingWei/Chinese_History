@@ -17,7 +17,7 @@ Histories make men wise. Here is complete set of E-books of ancient Chinese hist
 	     |
 	     +-- 5000-year_History    collection of Chinese history
 	     |
-	     +-- README.md            introduction of project
+	     +-- README.md            manual of project
 	     |
 	     +-- LICENSE.md           license of project
 	
