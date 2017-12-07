@@ -1,4 +1,4 @@
-# Chinese-History ![Travis](https://img.shields.io/travis/rust-lang/rust.svg) ![Language](https://img.shields.io/badge/format-PDF-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![AD](https://img.shields.io/badge/史上最全-中国历史全集-pink.svg)
+# Chinese-History ![Travis](https://img.shields.io/travis/rust-lang/rust/master.svg) ![Language](https://img.shields.io/badge/format-PDF-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![AD](https://img.shields.io/badge/史上最全-中国历史全集-pink.svg)
  
 __Update 08-05-2017__:   __It's an E-book collection of Chinese History.__
 
