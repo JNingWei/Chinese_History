@@ -4,7 +4,7 @@ __Update 08-05-2017__:   __It's an E-book collection of Chinese History.__
 
 MIT license. Contributions welcome.
 
-## Introduction
+## Overview
 
 E-book collection of Chinese history.<br>
 中国历史 电子版 大合集。
@@ -13,13 +13,13 @@ Histories make men wise. Here is complete set of E-books of ancient Chinese hist
 读史使人明智。 这些是我过去收集的完整全套的中国古代史， 在这里一并分享给和我一样喜欢看历史的小伙伴们。
 
 
-	Image-Filter        root directory
+	Chinese-History/       root directory
 	     |
-	     +-- 5000-year_History    collection of Chinese history
+	     +-- 5000-year_History/    collection of Chinese history
 	     |
-	     +-- README.md            manual of project
+	     +-- README.md             manual of project
 	     |
-	     +-- LICENSE.md           license of project
+	     +-- LICENSE.md            license of project
 	
 	
 ## Usage
